@@ -1,6 +1,7 @@
 Private Data Communication Protocol
 ---
 
+Google substitutes the winning price for the macro in unpadded web-safe base64 encoding (RFC 3548).
 [decrypt-price](https://developers.google.com/authorized-buyers/rtb/response-guide/decrypt-price)  
 
 [privatedatacommunicationprotocol](https://code.google.com/archive/p/privatedatacommunicationprotocol/downloads) download  
